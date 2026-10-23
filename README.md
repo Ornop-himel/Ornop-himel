@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 Hey, I'm Himel
@@ -44,6 +43,7 @@ experience, user accounts, order management and an admin dashboard.
 - 📦 Checkout, order history and order tracking
 - 🛠️ Admin dashboard for products, orders and customers
 - 📊 Sales analytics, revenue charts and inventory alerts
+- 🎟️ Promo codes, referral rewards, loyalty points and order cancellation
 
 **Tech Stack**
 
@@ -55,9 +55,10 @@ Lucide React and Recharts.
 > KAIVORN is a personal portfolio project and has not been
 > officially launched as a business.
 
-🔗 **Source Code:** [Add your KAIVORN repository link](YOUR_KAIVORN_REPO_URL)
+🔗 **Source Code:** [github.com/Ornop-himel/kaivorn](https://github.com/Ornop-himel/kaivorn)
 
-🌐 **Live Demo:** [Add your deployed website link](YOUR_KAIVORN_DEMO_URL)
+<!-- Live demo: add this line after deploying -->
+<!-- 🌐 **Live Demo:** [KAIVORN](YOUR-LIVE-URL) -->
 
 ---
 
@@ -71,7 +72,7 @@ Lucide React and Recharts.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
 </p>
 
 ### Frontend Development
@@ -121,9 +122,11 @@ Lucide React and Recharts.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
+<!-- LinkedIn: add after your profile name is updated
 <a href="YOUR_LINKEDIN_PROFILE_URL">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+-->
 
 ### 💬 Let's Build Something Great Together!
 
